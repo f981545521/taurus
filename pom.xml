@@ -93,11 +93,11 @@
             <version>${mysql.version}</version>
         </dependency>
         <!-- oracle驱动 -->
-        <dependency>
+<!--        <dependency>
             <groupId>ojdbc</groupId>
             <artifactId>ojdbc</artifactId>
             <version>5</version>
-        </dependency>
+        </dependency>-->
         <!-- mssql驱动 -->
         <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
